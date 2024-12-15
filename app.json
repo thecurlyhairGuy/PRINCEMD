@@ -14,7 +14,7 @@
     "OWNER_NUMBER": {
       "description": "put your Number as Owner",
       "required": true,
-      "value": "923092668108;❣️DASTAGEER"
+      "value": "2349132095836;🥷🏽THE CURLYHAIR GUY"
     },
     "MODE": {
       "description": "mode public or private",
@@ -50,7 +50,7 @@
     "STATUS_MSG": {
       "description": "Status reply msg",
       "required": false,
-      "value": "Your Status has been seen by Prince bot"
+      "value": ""
     },
     "BOT_NAME": {
       "description": "put your BOT a name",
